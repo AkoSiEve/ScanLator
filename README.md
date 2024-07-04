@@ -1,6 +1,6 @@
 # ScanLator
 
-https://github.com/AkoSiEve/ScanLator/issues/1#issue-2391162981
+https://github.com/AkoSiEve/ScanLator/assets/81839201/48ad5184-00ba-47a4-a9b9-385587041525
 
 ## Getting Started
 
