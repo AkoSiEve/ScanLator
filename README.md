@@ -1,6 +1,6 @@
-# scanlator
+# ScanLator
 
-A new Flutter project.
+https://github.com/AkoSiEve/ScanLator/issues/1#issue-2391162981
 
 ## Getting Started
 
